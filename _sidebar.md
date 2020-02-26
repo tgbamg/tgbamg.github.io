@@ -1,6 +1,6 @@
 ###### &emsp;&emsp;[homepage](/#/)
 ###### &emsp;&emsp;[article style](/写作原则.md)
 ###### &emsp;&emsp;[copyright statement](/版权声明.md)
-###### &emsp;&emsp;[github](https://github.com/tgbamg)
+###### &emsp;&emsp;[github](http://github.com/tgbamg)
 ###### &emsp;&emsp;[about](/about.md)
 ###### &emsp;&emsp;[links](/zh-cn/)
