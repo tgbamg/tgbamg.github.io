@@ -1,4 +1,4 @@
-###### &emsp;&emsp;[homepage](/#/)
+###### &emsp;&emsp;[homepage](https://tgbamg.me)
 ###### &emsp;&emsp;[article style](/写作原则.md)
 ###### &emsp;&emsp;[copyright statement](/版权声明.md)
 ###### &emsp;&emsp;[github](https://github.com/tgbamg)
